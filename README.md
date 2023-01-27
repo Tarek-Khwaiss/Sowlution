@@ -1,0 +1,1 @@
+Hello Marc, this is the solution of the web integration test.
